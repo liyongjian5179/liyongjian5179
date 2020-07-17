@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
@@ -26,7 +28,6 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
----
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 
 </details>
 
----
+
 
 <div align="center">
 	<br>
