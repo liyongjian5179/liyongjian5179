@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
+---
+
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
 
@@ -34,3 +36,11 @@ Here are some ideas to get you started:
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=liyongjian5179&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
+---
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<br>
+</div>
