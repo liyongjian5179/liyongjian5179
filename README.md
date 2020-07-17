@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <samp>
     I'm Li,Yongjian :wave:
     <br><br>
-    I work as a Devops!
+    I work as a Devops 👨🏻‍💻 from China :cn:!
 
   </samp>
 </p>
